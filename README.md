@@ -12,6 +12,7 @@ Task required me to create a **LinearLogisticClassification** model in order to 
 
 I have discovered the most useful numeric and categorial factors in order to optimize the model of classification. All parameteres are scaled.
 
+
 ## 🎯 Results
 
 Those are **RESULTS** (accuracy/precision/recall):
