@@ -14,10 +14,10 @@ I have discovered the most useful numeric and categorial factors in order to opt
 
 ## 🎯 Results
 
-Those are **RESULTS** (accuracy/precision/recall/f1-score):
+Those are **RESULTS** (accuracy/precision/recall):
 
 ![](https://github.com/plugg1N/logistic-classification-model/blob/main/Images/image2.png?raw=true)
 
-**BOOTSTRAP BOUNDARIES** *(доверительные интервалы)* of variable accuracy/precision/recall and f1-score:
+**BOOTSTRAP BOUNDARIES** *(доверительные интервалы)* of variable accuracy/precision/recall:
 
 ![](https://github.com/plugg1N/logistic-classification-model/blob/main/Images/image3.png?raw=true)
